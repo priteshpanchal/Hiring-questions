@@ -31,7 +31,7 @@ Q2 a) What is the mapping function?
 The mapping function in embedded systems is a software routine that maps a physical address to a virtual address, allowing the system to access memory efficiently and effectively. This function provides an abstraction layer between the physical memory and the software, enabling the software to work with memory addresses that are not directly related to physical memory addresses.
 
 Q2 b) What is the output of the mapping function for the following inputs: 30001, 55555, 77788
-
+i am still trying to find the patter between input and output.
 Q2 c) What is the upper limit of this mapping function before there will be collisions? 
 
 Q2 d) Please share any code that you wrote in the process of trying to solve the above problem.
